@@ -38,8 +38,8 @@ body {
 }
 
 .selected{
-    box-shadow: 0 0 0 99999px rgba(0, 0, 0, .6);
-    transform: scale(1.02);
+    /*box-shadow: 0 0 0 99999px rgba(0, 0, 0, .6);*/
+    /*transform: scale(1.02);*/
 }
 #myModal {
     display: none; /* Hidden by default */
